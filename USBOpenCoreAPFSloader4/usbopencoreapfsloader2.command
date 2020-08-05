@@ -12,7 +12,7 @@ sudo nvram boot-args="-no_compat_check"
 sudo defaults write /Library/Preferences/com.apple.security.libraryvalidation.plist DisableLibraryValidation -bool true
 sudo osascript -e 'display notification "USB preparing please wait a couple of minutes" with title "USBOpenCoreAPFSloader4" subtitle "Do not remove the USB drive during this phase"'
 echo "\nInstalling the bootloader to its boot path"
-sudo unzip -qo -P jackluke /private/tmp/USBOpenCoreAPFSloader4/OpenCore4 -d /Volumes/EFIext
+sudo unzip -qo -P jackluke /private/tmp/USBOpenCoreAPFSloader4/OpenCore -d /Volumes/EFIext
 sudo bless --folder /Volumes/EFIext/EFI/Boot --label "OpenCoreAPFSloader4"
 sudo osascript -e 'display notification "USBOpenCoreAPFSloader4 is ready" with title "USBOpenCoreAPFSloader4"'
 echo "\nDone"
