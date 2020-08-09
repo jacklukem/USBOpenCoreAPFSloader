@@ -1,6 +1,6 @@
 # USBOpenCoreAPFSloader
 
-External USB version of the OpenCoreAPFSloader for any unsupported Catalina EFI Mac
+External USB version of the OpenCoreAPFSloader for any unsupported Catalina and BigSur EFI Mac
 
 to detect any HFS, APFS, APFS dmg, ramdisk and hidden apple volumes from any unsupported Catalina Mac
 
