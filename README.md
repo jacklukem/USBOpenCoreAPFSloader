@@ -2,7 +2,7 @@
 
 External USB version of the OpenCoreAPFSloader for any unsupported Catalina and BigSur EFI Mac
 
-*#Added two new versions to spoof to a BigSur supported Mac in order to get OTA updates#*
+## *Added two new versions to spoof to a BigSur supported Mac in order to get OTA updates*
 
 to detect any HFS, APFS, APFS dmg, ramdisk and hidden apple volumes from any unsupported Catalina and BigSur Mac
 
