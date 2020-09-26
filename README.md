@@ -17,6 +17,8 @@ https://github.com/jacklukem/USBOpenCoreAPFSloader/releases/tag/3.2
 For APFS firmware with recent USB Mac:
 https://github.com/jacklukem/USBOpenCoreAPFSloader/releases/tag/4.2
 
+Here for the EFI folder updated to opencore 0.6.1 :
+https://github.com/jacklukem/USBOpenCoreAPFSloader/raw/master/BigSurOTA/OpenCore4s1.zip
 
 
 sources: https://github.com/acidanthera/OpenCorePkg
