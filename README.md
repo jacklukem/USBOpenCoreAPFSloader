@@ -26,5 +26,7 @@ https://forums.macrumors.com/threads/macos-11-big-sur-on-unsupported-macs-thread
 after the OTA installation completes to boot without opencore skipping the prohibitory symbol use this method:
 https://forums.macrumors.com/threads/macos-11-big-sur-on-unsupported-macs-thread.2242172/post-28957937
 
+this is the non spoofing BigSur EFI folder:
+https://github.com/jacklukem/USBOpenCoreAPFSloader/blob/master/OpenCoreAPFSloader4s1.zip
 
 sources: https://github.com/acidanthera/OpenCorePkg
