@@ -9,6 +9,10 @@ to load any stock macOS Recovery, macOS installer, and macOS patched installatio
 Check here for more info: https://forums.macrumors.com/threads/macos-10-15-catalina-on-unsupported-macs.2183772/post-28336873
 https://forums.macrumors.com/threads/macos-11-big-sur-on-unsupported-macs-thread.2242172/post-28743252
 
+### *Added a new version for allowing Arrandale Intel to boot BigSur kernel and installer*
+
+https://forums.macrumors.com/threads/macos-11-big-sur-on-unsupported-macs-thread.2242172/post-29138842
+
 ### *Added two new versions for spoofing BigSur supported Mac in order to get OTA updates*
 
 https://github.com/jacklukem/USBOpenCoreAPFSloader/releases/tag/4.3
