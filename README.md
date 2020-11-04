@@ -15,6 +15,9 @@ https://forums.macrumors.com/threads/macos-11-big-sur-on-unsupported-macs-thread
 
 ### *Added two new versions for spoofing BigSur supported Mac in order to get OTA updates*
 
+Before perform any BigSur OTA update on unsupported Mac read this:
+https://forums.macrumors.com/threads/macos-11-big-sur-on-unsupported-macs-thread.2242172/post-29162400
+
 https://github.com/jacklukem/USBOpenCoreAPFSloader/releases/tag/4.3
 
 For non-APFS or legacy USB Mac:
