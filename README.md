@@ -11,6 +11,8 @@ https://forums.macrumors.com/threads/macos-11-big-sur-on-unsupported-macs-thread
 
 ### *Added a new version for allowing Arrandale Intel to boot BigSur kernel and installer*
 
+https://github.com/jacklukem/BigSurfixes/releases/
+
 https://forums.macrumors.com/threads/macos-11-big-sur-on-unsupported-macs-thread.2242172/post-29138842
 
 ### *Added two new versions for spoofing BigSur supported Mac in order to get OTA updates*
