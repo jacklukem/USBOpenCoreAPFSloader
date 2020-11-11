@@ -6,12 +6,14 @@ to detect any HFS, APFS, APFS dmg, ramdisk and hidden apple volumes from any uns
 
 to load any stock macOS Recovery, macOS installer, and macOS patched installation also from external usb devices
 
+### *These USBOpenCore are included in BigSur Basesystem fix*
+
+https://github.com/jacklukem/BigSurfixes/releases/
+
 Check here for more info: https://forums.macrumors.com/threads/macos-10-15-catalina-on-unsupported-macs.2183772/post-28336873
 https://forums.macrumors.com/threads/macos-11-big-sur-on-unsupported-macs-thread.2242172/post-28743252
 
 ### *Added a new version for allowing Arrandale Intel to boot BigSur kernel and installer*
-
-https://github.com/jacklukem/BigSurfixes/releases/
 
 https://forums.macrumors.com/threads/macos-11-big-sur-on-unsupported-macs-thread.2242172/post-29138842
 
