@@ -6,7 +6,7 @@ to detect any HFS, APFS, APFS dmg, ramdisk and hidden apple volumes from any uns
 
 to load any stock macOS Recovery, macOS installer, and macOS patched installation also from external usb devices
 
-### *These USBOpenCore are included in BigSur Basesystem fix*
+### *These OpenCoreAPFSloader are also included in BigSur Basesystem fix*
 
 https://github.com/jacklukem/BigSurfixes/releases/
 
