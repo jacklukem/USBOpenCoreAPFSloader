@@ -13,9 +13,12 @@ https://forums.macrumors.com/threads/macos-11-big-sur-on-unsupported-macs-thread
 
 https://github.com/jacklukem/BigSurfixes/releases/
 
-### *Added a new version for allowing Arrandale Intel to boot BigSur kernel and installer*
+### *Added a new version OpenCore4b1 for allowing Arrandale Intel to boot BigSur kernel and installer*
 
 https://forums.macrumors.com/threads/macos-11-big-sur-on-unsupported-macs-thread.2242172/post-29138842
+
+also here is a previous text menu opencore setup for Arrandale SSDT ACPI fix:
+https://github.com/jacklukem/USBOpenCoreAPFSloader/blob/master/OpenCore3b1.zip
 
 ### *Added two new versions for spoofing BigSur supported Mac in order to get OTA updates*
 
