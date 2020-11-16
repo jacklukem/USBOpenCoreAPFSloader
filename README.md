@@ -19,6 +19,8 @@ https://github.com/jacklukem/USBOpenCoreAPFSloader/blob/master/OpenCore3b1.zip
 
 ### *Added two new versions for spoofing BigSur supported Mac in order to get OTA updates*
 
+### *Note currently it's not advisable to OTA update BigSur 11.0.1 through spoofing board id*
+
 Before perform any BigSur OTA update on unsupported Mac read this:
 https://forums.macrumors.com/threads/macos-11-big-sur-on-unsupported-macs-thread.2242172/post-29162400
 
