@@ -23,7 +23,8 @@ https://github.com/jacklukem/USBOpenCoreAPFSloader/blob/master/OpenCore3b1.zip
 Before perform any BigSur OTA update on unsupported Mac read this:
 https://forums.macrumors.com/threads/macos-11-big-sur-on-unsupported-macs-thread.2242172/post-29162400
 
-https://github.com/jacklukem/USBOpenCoreAPFSloader/releases/tag/4.3
+<details>
+  <summary>Currently is not advisable to OTA update</summary>
 
 For non-APFS or legacy USB Mac:
 https://github.com/jacklukem/USBOpenCoreAPFSloader/releases/tag/3.2
@@ -36,6 +37,10 @@ https://forums.macrumors.com/threads/macos-11-big-sur-on-unsupported-macs-thread
 
 after the OTA installation completes to boot without opencore skipping the prohibitory symbol use this method:
 https://forums.macrumors.com/threads/macos-11-big-sur-on-unsupported-macs-thread.2242172/post-28957937
+
+</details>
+
+https://github.com/jacklukem/USBOpenCoreAPFSloader/releases/tag/4.3
 
 this is the non spoofing BigSur EFI folder also for non-APFS or legacy USB Mac:
 https://github.com/jacklukem/USBOpenCoreAPFSloader/blob/master/OpenCoreAPFSloader4s1.zip
