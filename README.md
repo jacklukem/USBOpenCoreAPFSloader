@@ -32,13 +32,13 @@ https://github.com/jacklukem/USBOpenCoreAPFSloader/releases/tag/3.2
 For APFS firmware with recent USB Mac:
 https://github.com/jacklukem/USBOpenCoreAPFSloader/releases/tag/4.2
 
+</details>
+
 if when selecting BigSur Preboot from opencore menu can't boot, try this to fix:
 https://forums.macrumors.com/threads/macos-11-big-sur-on-unsupported-macs-thread.2242172/post-28948321
 
 after the OTA installation completes to boot without opencore skipping the prohibitory symbol use this method:
 https://forums.macrumors.com/threads/macos-11-big-sur-on-unsupported-macs-thread.2242172/post-28957937
-
-</details>
 
 https://github.com/jacklukem/USBOpenCoreAPFSloader/releases/tag/4.3
 
