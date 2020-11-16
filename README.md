@@ -42,9 +42,6 @@ https://forums.macrumors.com/threads/macos-11-big-sur-on-unsupported-macs-thread
 
 https://github.com/jacklukem/USBOpenCoreAPFSloader/releases/tag/4.3
 
-this is the non spoofing BigSur EFI folder also for non-APFS or legacy USB Mac:
-https://github.com/jacklukem/USBOpenCoreAPFSloader/blob/master/OpenCoreAPFSloader4s1.zip
-
 Previous USBOpenCoreAPFSloader version:
 https://forums.macrumors.com/threads/macos-10-15-catalina-on-unsupported-macs.2183772/post-28336873
 
