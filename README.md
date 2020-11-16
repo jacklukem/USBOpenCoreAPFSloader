@@ -10,7 +10,7 @@ to load any stock macOS Recovery, macOS installer, and macOS patched installatio
 
 ### *Added a new version OpenCore4b1 for allowing Arrandale Intel to boot BigSur kernel and installer*
 
-to make working simply copy the EFI folder to any FAT32 formatted volume and use apple startup manager to select it:
+to make working simply copy the OpenCore4b1 EFI folder to any FAT32 formatted volume and use apple startup manager to select it:
 https://forums.macrumors.com/threads/macos-11-big-sur-on-unsupported-macs-thread.2242172/post-29138842
 
 for mac that have issues with newer opencore version, here is a previous opencore setup for Arrandale SSDT ACPI fix:
