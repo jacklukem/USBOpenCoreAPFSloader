@@ -30,9 +30,6 @@ https://github.com/jacklukem/USBOpenCoreAPFSloader/releases/tag/3.2
 For APFS firmware with recent USB Mac:
 https://github.com/jacklukem/USBOpenCoreAPFSloader/releases/tag/4.2
 
-Here for the EFI folder updated to opencore 0.6.1 (to make working simply copy the EFI folder to any FAT32 formatted volume and use apple startup manager to select it) :
-https://github.com/jacklukem/USBOpenCoreAPFSloader/raw/master/BigSurOTA/OpenCore4s1.zip
-
 if when selecting BigSur Preboot from opencore menu can't boot, try this to fix:
 https://forums.macrumors.com/threads/macos-11-big-sur-on-unsupported-macs-thread.2242172/post-28948321
 
