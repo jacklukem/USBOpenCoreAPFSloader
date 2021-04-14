@@ -19,7 +19,7 @@ for mac that have issues with newer opencore graphics menu version, here is a pr
 https://github.com/jacklukem/USBOpenCoreAPFSloader/blob/master/OpenCore3b1.zip
 
 <details>
- <summary>Previous versions</summary>
+ <summary>Previous versions for Big Sur 11.0.1 or earlier</summary>
 
 ### *Added two new versions for spoofing BigSur supported Mac in order to get OTA updates*
 
