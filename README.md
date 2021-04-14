@@ -9,6 +9,7 @@ to load any stock macOS Recovery, macOS installer, and macOS patched installatio
 ### *OpenCoreAPFSloader is also included as option in my BigSur Basesystem fix for unsupported Mac* https://github.com/jacklukem/BigSurfixes/releases/
 
 <details>
+ <summary>Previous versions </summary>
 ### *Added a new version OpenCore4b1 for allowing Arrandale Intel (example MacBookPro6,2) to boot BigSur kernel and installer*
 
 to make working simply copy the OpenCore4b1 EFI folder to any FAT32 formatted volume and use apple startup manager to select it:
@@ -24,7 +25,7 @@ https://github.com/jacklukem/USBOpenCoreAPFSloader/blob/master/OpenCore3b1.zip
 Before perform any BigSur OTA update on unsupported Mac read this:
 https://forums.macrumors.com/threads/macos-11-big-sur-on-unsupported-macs-thread.2242172/post-29162400
 
-  <summary>Currently is not advisable to OTA update</summary>
+Currently is not advisable to OTA update
 
 For non-APFS or legacy USB Mac:
 https://github.com/jacklukem/USBOpenCoreAPFSloader/releases/tag/3.2
