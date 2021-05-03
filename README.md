@@ -8,11 +8,11 @@ to load any stock macOS Recovery, macOS installer, and macOS patched installatio
 
 ### *For Big Sur 11.2 or later, just added a new version OpenCore4b2 that adds some new features also for non APFS legacy USB Mac* https://github.com/jacklukem/USBOpenCoreAPFSloader/releases/tag/4.5
 
-Apple fixed the ACPI kp on Arrandale (and similar architecture) with 11.1 RC build 20C69
+### *Apple fixed the ACPI kp on Arrandale (and similar architecture) with 11.1 RC build 20C69*
 
 ### *OpenCoreAPFSloader is also included as option in my BigSur Basesystem fix for unsupported Mac* https://github.com/jacklukem/BigSurfixes/releases/
 
-### *Added a new version OpenCore4b1 for allowing Arrandale Intel (example MacBookPro6,2) to boot BigSur kernel and installer*
+### *Added a new version OpenCore4b1 with khronokernel SSDT patch for allowing Arrandale Intel (example MacBookPro6,2) to boot BigSur kernel and installer*
 
 to make working simply copy the OpenCore4b1 EFI folder to any FAT32 formatted volume and use apple startup manager to select it:
 https://forums.macrumors.com/threads/macos-11-big-sur-on-unsupported-macs-thread.2242172/post-29138842
