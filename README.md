@@ -6,9 +6,9 @@ to detect any HFS, APFS, APFS dmg, ramdisk and hidden apple volumes from any uns
 
 to load any stock macOS Recovery, macOS installer, and macOS patched installation also from external usb devices
 
-### *For Big Sur 11.2 or later, just added a new version OpenCore4b2 that adds some new features also for non APFS legacy USB Mac* https://github.com/jacklukem/USBOpenCoreAPFSloader/releases/tag/4.5
+### *For Big Sur 11.1 or later, just added a new version OpenCore4b2 that adds some new features also for non APFS legacy USB Mac* https://github.com/jacklukem/USBOpenCoreAPFSloader/releases/tag/4.5
 
-### *Apple officially fixed the ACPI kp on Arrandale (and similar architecture) with 11.1 RC build 20C69*
+### *Apple officially fixed the ACPI kp on Arrandale (and similar architecture) with 11.1 beta 1 build 20C5048k*
 
 ### *OpenCoreAPFSloader is also included as option in my BigSur Basesystem fix for unsupported Mac* https://github.com/jacklukem/BigSurfixes/releases/
 
